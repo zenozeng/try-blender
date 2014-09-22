@@ -1,6 +1,4 @@
-# greenhouse
-
-Greenhouse design using Blender
+# Try-blender
 
 ![greenhouse](greenhouse.png)
 
